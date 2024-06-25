@@ -12,7 +12,7 @@ function App() {
           </b>
         </p>
         <p>
-        Your React application is successfully running on <b>Amazon ECS</b> 🚀🔥
+        Version 2 of your React application is successfully running on <b>Amazon ECS</b> 🚀🔥
         </p>
       </header>
     </div>
